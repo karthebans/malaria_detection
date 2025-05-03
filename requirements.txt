@@ -1,0 +1,8 @@
+ipykernel
+Pillow
+opencv-python
+pandas
+tensorflow
+matplotlib
+scikit-learn
+seaborn
